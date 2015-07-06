@@ -1,9 +1,9 @@
-# Student Picker
+# Questions in a Hat
 
-Helps facilitate presentations by randomly selecting a unique student when prompted.
+Helps facilitate review by randomly selecting a question from a set.
 
 ##Setup
-* You can edit the list of students in `lib/assets/student_list.rb`
-* Run the app with `ruby pick_students.rb` in the root directory
+* You can edit the list of questions in `lib/assets/question_list.rb`
+* Run the app with `ruby questions_in_a_hat.rb` in the root directory
 
-Thanks to [awkward_turtle](https://github.com/mswain/awkward_turtle) for the animation!
+Thanks to [awkward_turtle](https://github.com/mswain/awkward_turtle) for celebration animation!
